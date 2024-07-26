@@ -1,4 +1,3 @@
-Here's an attractive README file for your GitHub profile:
 Hi there, I'm Ayush Patel 👋
 
 I'm a passionate software developer and competitive coder pursuing a B.Tech in Information Technology at NIT Raipur. I love exploring new technologies and building innovative projects.
