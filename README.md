@@ -9,7 +9,7 @@ I love exploring new technologies and building innovative projects.
     Web Development: HTML, CSS, React
     Database Management: MySQL
     Tools & Platforms: Git, Github
-    Competitive Programming: Codeforces, LeetCode, HackerRank
+    Competitive Programming: Codeforces, Codechef, LeetCode, HackerRank
 
 📚 Projects
     Weather App: A web application that provides real-time weather updates.
