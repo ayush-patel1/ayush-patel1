@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Hi there, I'm Ayush Patel 👋<br><br>I'm a passionate software developer and competitive coder pursuing a B.Tech in Information Technology at NIT Raipur.<br>I love exploring new technologies and building innovative projects.<br><br>🛠️ My Skills<br><br>Languages: Python, JavaScript, C++<br>Web Development: HTML, CSS, JavaScript, React.js ,Next.js<br>Database Management: MySQL<br>Tools & Platforms: Git, Github<br>Competitive Programming: Codeforces, Codechef, LeetCode, HackerRank<br><br>📚 Projects<br>Weather App: A web application that provides real-time weather updates.<br>Technocracy Club Website: Official website for the Technocracy Club, featuring event updates and resources.<br><br>🌱 What I'm Currently Learning<br><br>Advanced algorithms and data structures<br>Fronted Development</h3>
+<h3 align="left">Hi there, I'm Ayush Patel 👋<br><br>I'm a passionate software developer and competitive coder pursuing a B.Tech in Information Technology at NIT Raipur.<br>I love exploring new technologies and building innovative projects.<br><br>🛠️ My Skills<br><br>Languages: Python(Basic), JavaScript(Intermediate), C++(Expert),Java<br>Web Development: HTML, CSS, JavaScript, React.js ,Next.js<br>Database Management: MySQL<br>Tools & Platforms: Git, Github,VS Code<br>Competitive Programming: Codeforces, Codechef, LeetCode, HackerRank<br><br>📚 Projects<br>Weather App: A web application that provides real-time weather updates.<br>Technocracy Club Website: Official website for the Technocracy Club, featuring event updates and resources.<br><br>🌱 What I'm Currently Learning<br><br>Advanced algorithms and data structures<br>Fronted Development</h3>
 
 ###
 
