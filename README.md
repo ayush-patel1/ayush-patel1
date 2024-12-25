@@ -71,6 +71,8 @@
 
 ###
 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayush-patel1)](https://github.com/anuraghazr/github-readme-stats)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayush-patel1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
