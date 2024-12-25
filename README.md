@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-[![Ayush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Ayush's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only&theme=radical)
 
 
 ###
