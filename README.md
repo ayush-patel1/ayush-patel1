@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Hi there, I'm Ayush Patel 👋<br><br>I'm a passionate software developer and competitive coder pursuing a B.Tech in Information Technology at NIT Raipur.<br>I love exploring new technologies and building innovative projects.<br><br>🛠️ My Skills<br><br>Languages: Python(Basic), JavaScript(Intermediate), C++(Expert),Java<br>Web Development: HTML, CSS, JavaScript, React.js ,Next.js<br>Database Management: MySQL<br>Tools & Platforms: Git, Github,VS Code<br>Competitive Programming: Codeforces, Codechef, LeetCode, HackerRank<br><br>📚
+<h3 align="left">Hi there, I'm Ayush Patel 👋<br><br>I'm a passionate software developer and competitive coder pursuing a B.Tech in Information Technology at NIT Raipur.<br>I love exploring new technologies and building innovative projects.<br><br>🛠️ My Skills<br><br>Languages: Python(Basic), JavaScript(Intermediate), C++(Expert),Java<br>Web Development: HTML, CSS, JavaScript, React.js ,Next.js  ,Typescript ,MongoDB ,Express , NodeJS<br>Database Management: MySQL<br>Tools & Platforms: Git, Github,VS Code<br>Competitive Programming: Codeforces, Codechef, LeetCode, HackerRank<br><br>
 
 ###
 
@@ -62,6 +62,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TS logo" />
 
 </div>
 
