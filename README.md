@@ -44,7 +44,7 @@
 
 - **Languages**: Python, JavaScript, C++, Java
 - **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, Typescript, MongoDB, Express, Node.js
-- **Database Management**: MySQL
+- **Database Management**: MySQL ,PostgresQL
 - **Tools & Platforms**: Git, Github, VS Code
 - **Competitive Programming**: Codeforces, Codechef, LeetCode, HackerRank
 
