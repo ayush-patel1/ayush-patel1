@@ -8,8 +8,8 @@
   <h1>Hey there 👋, I'm Ayush Patel</h1>
   <p>
     🎓 B.Tech in Information Technology @ NIT Raipur <br/>
-    👨‍💻 Software Developer | Competitive Programmer <br/>
-    🚀 Building innovative solutions and exploring new technologies
+    👨‍💻 Software Developer | Open Source Contributor | Tech Enthusiast <br/>
+    🚀 Exploring new technologies & building impactful projects
   </p>
 </div>
 
@@ -35,7 +35,17 @@
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ My Skills
+
+- **Languages**: Python, JavaScript, C++, Java
+- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, WebSockets
+- **Database Management**: MySQL, PostgreSQL
+- **Tools & Platforms**: Git, GitHub, VS Code
+- **Open Source**: Active contributor & Hacktoberfest participant
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,6 +69,17 @@
 
 ---
 
+## 🚀 Open Source Contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-10%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues%20Resolved-5%2B-yellow?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-ff69b4?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -69,15 +90,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-patel1&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&theme=radical" alt="Ayush's Activity Graph" />
 </p>
 
 ---
 
-## 📈 Visitors
+## 👀 Visitor Count
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/ayush-patel1/count.svg?" alt="Visitor Count" />
