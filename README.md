@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://img.freepik.com/premium-photo/biologist-digital-avatar-generative-ai_934475-9169.jpg?w=826" height="150" alt="Avatar" />
-</div>
 
----
 
 <div align="center">
   <h1>Hey there 👋, I'm Ayush Patel</h1>
