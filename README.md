@@ -36,7 +36,7 @@
 - **Languages**: Python, JavaScript, C++, Java
 - **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, WebSockets
 - **Database Management**: MySQL, PostgreSQL
-- **Tools & Platforms**: Git, GitHub, VS Code
+- **Tools & Platforms**: Git, GitHub, VS Code ,Agentic AI ,LangChain
 - **Open Source**: Active contributor & Hacktoberfest participant
 
 ---
