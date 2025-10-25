@@ -67,12 +67,7 @@
 
 ## 🚀 Open Source Contributions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-3b82f6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/PRs%20Merged-20+%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Issues%20Resolved-5%2B-yellow?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-ff69b4?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-3b82f6?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/PRs%20Merged-20%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Issues%20Resolved-5%2B-yellow?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge&logo=hacktoberfest&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode'24-Contributor-9b59b6?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Code%20%26%20Conquer-Contributor-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 ---
 
