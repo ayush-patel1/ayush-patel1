@@ -34,8 +34,8 @@
 ## 🛠️ My Skills
 
 - **Languages**: Python, JavaScript, C++, Java
-- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, WebSockets
-- **Database Management**: MySQL, PostgreSQL
+- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js,WebSockets
+- **Database Management**: MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms**: Git, GitHub, VS Code ,Agentic AI ,LangChain
 - **Open Source**: Active contributor & Hacktoberfest participant
 
