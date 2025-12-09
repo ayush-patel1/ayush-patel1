@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>Hey there 👋, I'm Ayush Patel</h1>
   <p>
@@ -34,7 +32,7 @@
 ## 🛠️ My Skills
 
 - **Languages**: Python, JavaScript, C++, Java
-- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js,WebSockets
+- **Web Development**: HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Node.js, Express.js, WebSockets
 - **Database Management**: MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms**: Git, GitHub, VS Code ,Agentic AI ,LangChain
 - **Open Source**: Active contributor & Hacktoberfest participant
@@ -61,23 +59,25 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-1F7A7A?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain Badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI Badge" />
+  <img src="https://img.shields.io/badge/RAG_Systems-547E99?style=for-the-badge&logo=tensorflow&logoColor=white" alt="RAG Systems Badge" />
 </p>
 
 ---
 
 ## 🚀 Open Source Contributions
 
-<p align="center"> <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-3b82f6?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/PRs%20Merged-20%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Issues%20Resolved-5%2B-yellow?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge&logo=hacktoberfest&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCode'24-Contributor-9b59b6?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Code%20%26%20Conquer-Contributor-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /> </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=radical" alt="Ayush's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayush-patel1&theme=radical" alt="Ayush's GitHub Streak" />
-</div>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-3b82f6?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PRs%20Merged-20%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Issues%20Resolved-5%2B-yellow?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-ff69b4?style=for-the-badge&logo=hacktoberfest&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/OpenCode'24-Contributor-9b59b6?style=for-the-badge&logo=github&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Code%20%26%20Conquer-Contributor-0ea5e9?style=for-the-badge&logo=github&logoColor=white" /> 
+</p>
 
 ---
 
@@ -89,10 +89,10 @@
 
 ---
 
-## 👀 Visitor Count
+## 👁️ Profile Status
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ayush-patel1/count.svg?" alt="Visitor Count" />
+  <img src="https://img.shields.io/badge/Profile%20Views%20Status-Active-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="Profile Status" />
 </p>
 
 ---
@@ -102,4 +102,3 @@
 <p align="center">
   💌 <strong>Email:</strong> <a href="mailto:ayush005rkt@gmail.com">ayush005rkt@gmail.com</a>
 </p>
-
