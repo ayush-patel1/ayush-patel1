@@ -1,43 +1,82 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ayush%20Patel&fontSize=45&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=200&section=header&text=Ayush%20Patel&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ex-SWE%20Intern%20%40%20Zscaler%20%7C%20NIT%20Raipur%20%2727&descSize=16&descAlignY=58" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Exploring+AI+%26+Web+Development+%F0%9F%A4%96" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;Ex-SWE+Intern+%40+Zscaler+%E2%9A%A1;Full+Stack+%7C+AI+%7C+Open+Source;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Code.+Create.+Repeat.+%E2%9C%A8" alt="Typing Animation"/>
 
-<p>
-  <a href="https://github.com/ayush-patel1">GitHub</a> •
-  <a href="https://www.linkedin.com/in/ayush-patel05/">LinkedIn</a> •
-  <a href="https://ayush-patel-dev.vercel.app/">Portfolio</a> •
-  <a href="mailto:ayush005rkt@gmail.com">Email</a>
-</p>
+<br/>
+
+<a href="https://github.com/ayush-patel1"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/ayush-patel05/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://ayush-patel-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=ayush-patel1&style=for-the-badge&color=00d4ff&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 IT Undergrad @ NIT Raipur '27
-- 🚀 Building projects and exploring new technologies
-- 🤖 Interested in AI, Web Development & Open Source
 
-### 🛠️ Tech Stack
+```yaml
+name: Ayush Patel
+education: B.Tech IT @ NIT Raipur '27
+experience: Ex-SWE Intern @ Zscaler
+interests:
+  - Full Stack Development
+  - AI & Agentic Systems
+  - Open Source
+  - Competitive Programming
+motto: "Build things that matter 🚀"
+```
+
+### ⚡ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,git,github&perline=6" />
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 </div>
 
-### 📊 GitHub Stats
+---
+
+### 📊 GitHub Universe
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel1&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&theme=tokyo-night&hide_border=true" width="100%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ayush-patel1&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+### 💫 Thanks for stopping by!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Keep+Growing+%F0%9F%8C%B1" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
