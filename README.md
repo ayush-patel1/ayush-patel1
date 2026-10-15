@@ -1,71 +1,63 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:00d4ff&height=200&section=header&text=Ayush%20Patel&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Ex-SWE%20Intern%20%40%20Zscaler%20%7C%20NIT%20Raipur%20%2727&descSize=16&descAlignY=58" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AYUSH%20PATEL&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:09090b,30:312e81,70:0891b2,100:06b6d4&desc=EX-SWE%20INTERN%20%40%20ZSCALER%20%E2%80%A2%20NIT%20RAIPUR%20'27&descSize=15&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;Ex-SWE+Intern+%40+Zscaler+%E2%9A%A1;Full+Stack+%7C+AI+%7C+Open+Source;Turning+Ideas+Into+Reality+%F0%9F%9A%80;Code.+Create.+Repeat.+%E2%9C%A8" alt="Typing Animation"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Building+cool+things+with+code;%3E+Exploring+AI+%26+Agentic+Systems;%3E+Debugging+life...+one+commit+at+a+time;%3E+Turning+coffee+into+software+%E2%98%95" alt="Animated terminal intro"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/ayush-patel1"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/ayush-patel05/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://ayush-patel-dev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=ayush-patel1&style=for-the-badge&color=00d4ff&label=PROFILE+VISITORS"/>
+<a href="https://github.com/ayush-patel1"><img src="https://img.shields.io/badge/⌘_GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://ayush-patel-dev.vercel.app/"><img src="https://img.shields.io/badge/↗_Portfolio-312e81?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ayush-patel05/"><img src="https://img.shields.io/badge/Connect-0e7490?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### `~/about-me`
 
-```yaml
-name: Ayush Patel
-education: B.Tech IT @ NIT Raipur '27
-experience: Ex-SWE Intern @ Zscaler
-interests:
-  - Full Stack Development
-  - AI & Agentic Systems
-  - Open Source
-  - Competitive Programming
-motto: "Build things that matter 🚀"
+```bash
+$ whoami
+Ayush Patel — Developer & Tech Explorer
+
+$ experience
+Ex-Software Development Intern @ Zscaler
+
+$ currently_into
+Full Stack • Agentic AI • Open Source • DSA
+
+$ mission
+Turning ideas into products that matter. 🚀
 ```
 
-### ⚡ Tech Stack
+### `~/tech-stack`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,git&theme=dark&perline=6"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark" />
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-8B5CF6?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-10B981?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-06B6D4?style=flat-square&logo=databricks&logoColor=white"/>
 
 </div>
 
 ---
 
-### 📊 GitHub Universe
+### `~/github_stats`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&icon_color=22d3ee&title_color=22d3ee"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel1&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=ayush-patel1&theme=tokyonight&hide_border=true&background=09090b&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee"/>
 
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=ayush-patel1&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&bg_color=09090b&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -73,10 +65,8 @@ motto: "Build things that matter 🚀"
 
 <div align="center">
 
-### 💫 Thanks for stopping by!
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=while(alive)+%7B+keepBuilding();+%7D;404%3A+Limits+Not+Found+%F0%9F%9A%80;See+you+in+the+next+commit+%E2%9C%A8" alt="Animated developer sign-off"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=450&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9B%A0%EF%B8%8F;Keep+Growing+%F0%9F%8C%B1" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:09090b"/>
 
 </div>
