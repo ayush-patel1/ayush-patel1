@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ayush%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:09090b,30:312e81,70:0891b2,100:06b6d4&desc=Ex-SWE%20Intern%20%40%20Zscaler%20%E2%80%A2%20NITRR%20'27&descSize=15&descAlignY=60"/>
@@ -102,9 +101,9 @@ I picked a number between **1 and 10**. Can you guess it?
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayush-patel1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&icon_color=22d3ee&title_color=22d3ee"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-patel1&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=22d3ee"/>
 
-<!-- <img width="80%" src="https://streak-stats.demolab.com?user=ayush-patel1&theme=tokyonight&hide_border=true&background=09090b&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee"/> -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-patel1&theme=tokyonight"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-patel1&bg_color=09090b&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
+<!-- <img width="80%" src="https://streak-stats.demolab.com?user=ayush-patel1&theme=tokyonight&hide_border=true&background=09090b&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee"/> -->
 
 </div>
 
