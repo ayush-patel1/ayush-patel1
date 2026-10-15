@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AYUSH%20PATEL&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:09090b,30:312e81,70:0891b2,100:06b6d4&desc=EX-SWE%20INTERN%20%40%20ZSCALER%20%E2%80%A2%20NIT%20RAIPUR%20'27&descSize=15&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ayush%20Patel&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=twinkling&color=0:09090b,30:312e81,70:0891b2,100:06b6d4&desc=Ex-SWE%20Intern%20%40%20Zscaler%20%E2%80%A2%20NITRR%20'27&descSize=15&descAlignY=60"/>
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=600&color=22D3EE&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!+%F0%9F%91%8B;%3E+Building+cool+things+with+code;%3E+Exploring+AI+%26+Agentic+Systems;%3E+Debugging+life...+one+commit+at+a+time;%3E+Turning+coffee+into+software+%E2%98%95" alt="Animated terminal intro"/>
